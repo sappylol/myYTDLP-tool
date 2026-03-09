@@ -1,0 +1,9 @@
+{
+    "commandline": "-x -f bestaudio --audio-format mp3",
+    "paralelDownloads": 4,
+    "downloadFolder": "downloads",
+    "searchLimit": 25,
+    "resultLimit": 5,
+    "js-runtime" : "deno",
+    "js-runtime-path" : null
+}
